@@ -1,0 +1,57 @@
+<p>For the little that I&#39;ve understand, names and quotations are debated. This article describes another attempt to solve the problem: how to properly quote names and titles, allowing <em>every</em> possible names and quotations, without impossibilities due to morphology famyma&#39;o (denpabu).</p>
+<h2 id="impossible-properties-of-actual-situation">Impossible properties of actual situation</h2>
+<p>By actual situation is meaned all proposals which are to quote or not quote some words, from lojban brivla to rafsi and foreign words.<br>As people had noticed, they all have pros and cons, but all what-it-seems to be flaws. Let&#39;s look some:</p>
+<ul>
+<li>CLL:<ul>
+<li>denpabu after cmevla</li>
+<li>cmevla cannot begin with {la} or {lai} or {doi}</li>
+</ul>
+</li>
+<li>Dotsite:<ul>
+<li>denpabu after cmevla</li>
+<li>{la} or {lai} or {doi} are accepted in cmevla, but all cmevla which have to begin with denpabu</li>
+</ul>
+</li>
+<li>{lu li&#39;u}:<ul>
+<li>all that between these two words is taken as a quotation</li>
+</ul>
+</li>
+<li>{lo&#39;u le&#39;u}:<ul>
+<li>same as {lu li&#39;u} but for ungrammatical sentence(s)</li>
+</ul>
+</li>
+<li>{zo}:<ul>
+<li>quote only the next word</li>
+</ul>
+</li>
+<li>{zoi}:<ul>
+<li>quote the next word, with delimiters: additional word has to be chosen to separate the foreign words from the rest, e.g. {gy} in {zoi gy. Homo Sapiens .gy}</li>
+</ul>
+</li>
+<li>{la&#39;o}:<ul>
+<li>works as {zoi}, but add the semantic of name to the quoted words</li>
+</ul>
+</li>
+</ul>
+<p>These rules want to fight about one trick of lojban&#39;s morphology: words can be parsed without space or with. However, there is another rule which can be noted from actual situation: all what&#39;s between the quotation <em>is quoted</em>. It sounds strange saying like that, but see: it is not possible to insert a thing between {lu} and {li&#39;u}, or between {zoi gy.} and {.gy}; without making this thing quoted. This property makes actual quotations kinda absolute, and so, easier to use. But this rule leads also to another problem: all cmavo-for-quotations with such properties will fail.</p>
+<p>It is not hard to understand. Let&#39;s say that S is the startor, and T the terminator. So <code>S somequotation T</code> means <code>&quot;somequotation&quot;</code>. But what if we choose to have <code>&quot;quotation T somequotation S anotherquotation&quot;</code>? Because of the previously-mentionned rule, all that between S and T is quoted, so a trial might be <code>S quotation T somequotation S anotherquotation T</code>. Which expands, due to cmavo, to <code>&quot;quotation&quot; somequotation &quot;anotherquotation&quot;</code>, and so fails. You can try: it works for {lu}/{li&#39;u}, {la&#39;o}, {zoi}, and even {la} and its denpabu: names including what&#39;s-lojban-transcripts-denpabu (i.e. pause or glottal stop) fall in this principle. And it is not totally astonishing at the end: if quotations or names can be <em>any</em> sounds or letters, why hoping quote names which are made of the cmavo startor and terminator?</p>
+<h2 id="an-escape">An escape</h2>
+<p>The solution that I propose is inspired from <a href="https://en.wikipedia.org/wiki/LaTeX">LaTeX</a> commands. Shortly, LaTeX is a descriptive programming language for writing documents. So it uses several commands, as programming languages in general, to achieve graphical effects. Let&#39;s look at one of these.<br>The command <code>\section{My Title}</code> will displays <code>&quot;My Title&quot;</code> (with some pre-done font and size effects, but it&#39;s unimportant). And how to display <code>&quot;} qswqds \section{I&#39;m a joke title&quot;</code> with <code>\section</code> command?<br>LaTeX does this fairly simply, with the command <code>\section{\} qswqds \textbackslash section\{I&#39;m a joke title}</code>. And, no jokes, all is done: it achieves to write terminator, <code>}</code>, and startor, <code>\section{</code>.</p>
+<p>I don&#39;t see any problem with such solutions, and so want to put it in lojban. Let&#39;s see how it&#39;s working.</p>
+<p>The core is that this command uses, as terminator and startor, some characters which aren&#39;t display, i.e., quoted, without other charaters: and so, to display them, LaTeX uses escape characters: <code>\}</code> will display <code>&quot;}&quot;</code>, <code>\{</code> will display <code>&quot;{&quot;</code> <code>\textbackslash section</code> will display <code>&quot;\section&quot;</code> (<code>\\</code> is already defined in LaTeX, which explains why <code>\textbackslash</code> is used instead).</p>
+<p>Not regarding LaTeX specificities, I propose to use for lojban a startor and a terminator which will not be displayed, quoted, or taken in name; and, an escape character.</p>
+<p>For names, let&#39;s reassign {la}, as startor; and {ku}, as terminator; and {zo}, as escape; for this purpose.<br>Examples:</p>
+<ul>
+<li>{la lalxu ku citka}: means that the person named &quot;lalxu&quot; eats (neglecting some unuseful atemporal semantic considerations about &quot;citka&quot;)</li>
+<li>{la simpson ku citka}: means the same for the person named &quot;simpson&quot;</li>
+<li>{la zo ku lalxu zo la ku citka}: same for the person named &quot;kulalxula&quot;</li>
+<li>{la nuzoku.alofa ku trutca la tonga}: means that &quot;Nuku&#39;alofa is the capital of Tonga&quot;</li>
+<li>{la emil zo zo la ku ciska lo cutka}: means &quot;Émile Zola writes books&quot;</li>
+</ul>
+<p>Same changes can be made with {lo&#39;u}/{le&#39;u}, {lu}/{li&#39;u}...</p>
+<p>This additional use that I put to {zo} seems to be coherent with {zo} semantic and safe from a grammatical point of view.<br>In this proposal, {ku} isn&#39;t an elidable terminator for {la}: it is heavier, but safier.</p>
+<p>And what means {la ku ku}, or {la la ku}, or {la zo ku}? The latter is simple: just decide if {zo} needs to be escape or not. Previously, I have said that LaTeX did not display the startor and terminator, but it is incomplete: some produce errors and some not. For lojban, I think that the simplest solution is to say that {la ku ku} and {la la ku} are ungrammatical, not wanting to look which {ku} is the last or which {la} is the first; and where they are applying; in parsing. Also, combinations of {la} and {ku} are also forbidden, e.g. {la ku ku ku ku ku lalxu la la ku la ku citka} is forbidden.</p>
+<h2 id="unification">Unification</h2>
+<p>I&#39;ve don&#39;t see any need to continue to distinguish the actual different quotations, since they derivate all from the same concept, &quot;&quot;display words/chains-of-sounds&quot;&quot;. But if persons find it useful to separate names from quotations; from foreign from ungrammatical from grammatical... I just ask that all of theses cmavo are clearly defined, e.g. <code>la broda == lo se cmene zo broda</code>.</p>
+<p>About that, {zoi} is a bit more tricky to change, since the denpabu are vital for limitors to be separate from the quoted word. However, when I say previously that all words was gibberish, it was a bit false since {zoi} works, because, for example, {gy.} can be quoted with limitors different from {gy.} and {.gy}. Due to this possibility to use any limitors, {zoi} can quote any words using limitors which are not problematics. But these limitors are also heavy to use, maybe it is for that ZOhOI, MEhOI were invented; and so I recommand, if people really want to have different cmavo for several distinctions, to use new cmavo which will have a semantic identical to {zoi}, and will work identical to new {la} and new {ku}, with new {zo}.</p>
+<p>A last precision about morphology: this proposal doesn&#39;t take care of consonant-ending or not, which is the official use of denpabu, separate this kind of words from this other to not be merged; instead, it prefers to say that &#39;all between {la} and {ku} is a name&#39;, and that&#39;s all. No need to separate names from the other words, since {la} and {ku} provide a little separated world.</p>

@@ -1,0 +1,194 @@
+Consonants → zunsna
+
+    Nasal → zbi(vok/zun)sna
+
+    Obstruent, stop → ga'or(vok/zun)sna
+
+    Fricative → mosy(vok/zun)sna
+
+    Technically  they are not caused by friction (rather they're caused by turbulences  in the airsteam caused by the narrowness of the passage), but they sound  similarly to friction sound.
+
+    Sibilant → siclu zunsna
+
+    Affricate → mosyga'o(vok/zun)sna?
+
+    Approximant → 
+
+    Flap → darxi? voksna
+
+    Trill → desy(vok/zun)sna
+
+
+
+To evitate more incomprehensions, I define my code:
+english words. {tanru}, {alternative tanru}. {lujvo of the tanru}, {lujvo of the alternative tanru}
+
+#consonannt. {zunti}
+      {zunti} and not {ganlo}, because a consonant can be totally closed or   partially, but the closeness, if not complete, exists at least at bit
+###
+
+##pulmonic. {fepri}
+###place. {diklo zunti}
+####
+labial. {ctebi}
+coronal. {tance xadni? / stedu? zo'o ru'e} ⟦'back' as for 'dorsum' is badly rendered by {trixe}⟧
+dorsal. {tance bekpi}
+laryngeal. {voksa tanxe}
+guttural. {trixe} | {vokcinje zunsna}?
+
+####
+bi. {re}
+linguo. {tance}
+dental. {denci}
+alveo. {derxi}
+palata. {jdari drudi}
+retrofex. {korcu}
+velar. {ranti drudi}
+uvular. {drudi punli}
+pharyngeal. {galxe fenra}
+epiglottal. {loldi punli}
+glottal. {jbini cinje} ⦅"The glottis is defined as the opening between the vocal folds" se cusku la .uitkipedias.⦆
+    ※ vocal folds = vokcinje
+    ⁕ I've just considered the space between
+
+###manner. {tadji zunti}
+####obstruent. {fanta}. {fantysna}
+stop {sisti} {ganlo}
+    ga'or(vok/zun)sna
+affricate. {sisti mosra}
+    mosyga'o(vok/zun)sna?
+fricative. {mosra}
+    mosy(vok/zun)sna
+sibilant. siclu zunsna
+
+####sonorant. {ranji}. {ra'isna}
+    continuant. {na'e mulno ganlo}. {}
+
+nasal. {nazbi}. {nazbi}
+    zbi(vok/zun)sna
+approximant, spirant. {milxe zunti}, {mosra claxu}. {}, {}
+    ※ zo glaide pu'i se pilno .i ju'o malgli ku'i
+glide. {sakli}. {}
+flap~tap. {darxi}, {janli}
+trill. {desku}. {desy(vok/zun)sna}
+lateral. {mlana}
+
+
+##non-pulmonic. {na'e fepri}
+ejective. {bikla}, {tolsakci}, {spoja}?
+click. {kliki sance}
+implosive. {sakci sance}. {saksna}
+
+#vowel. {zunti claxu sance}
+
+### vowel height. {}. {}
+close. {jarki}. {}
+near close. {jarki jibni}, {rutne ganra}. {}, {}
+close mid. {jarki milxe}. {}
+mid. {no'e ganra}. {}
+    {ganra} or {jarki}?
+open mid. {ganra milxe}. {}
+near open. {ganra jibni}, {rutne jarki}. {}
+open. {ganra}. {}
+raised. {jarki zmadu}
+        if the metaphor is vowel-based, can it be used for consonants also?
+lowered. {ganra zmadu}
+
+### vowel backness. {zunti claxu sance ni condi}. {}
+    ※ Backness: condi klani / ni condi
+    ※ maybe we should specify 'backness for vowels', so add {zunti claxu sance} before.
+front. {caxno}. {}
+near front. {caxno jibni}. {}
+central. {no'e condi}. {}
+near back. {condi jibni}. {}
+back. {condi}. {}
+advanced. {caxno zmadu}
+retracted, {condi zmadu}
+
+##tongue shape
+apical. {tance jipno}
+subapical. {tance jipno cnita}
+    subical is very near of retroflex
+laminal. {balre tance}
+sulcal. {skuro tance}
+domed. {kruvi tance}
+lateral. {mlana}
+
+#drata co'oi vrici
+phonation. {janbe tadji}
+rounded. {cukla ctebi}
+unrounded. {na'e cukla ctebi}
+percusive. {damri}
+liquid. {cilmo sance}. {cimsna}
+semivowel. {jbini kalri}. {jbikarsna}
+ingressive.{tisna}?
+    maybe a thing more near to 'inward'
+    is it possible to use {zo'i} and {ze'o} in lujvo?
+egressive.
+diacritic. {cenba lerfu}, ⟦¿ jmina lerfu ?⟧
+long. {clani}, {jalge}
+half-long.
+syllabic-break. {slaka denpa}
+linked. {slaka denpa claxu}, {jorne}
+stress. {se basna}
+    ※ Stress can be made of increase of loudness, length and/or tone if I remember correctly.
+secondary stress. {se basna milxe}
+syllabic consonant: ¿[syllable nucleus] + zunsna?
+syllable: slaka
+syllable onset: slakykrasi?
+syllable nucleus: ¿slaka voksna? ¿slaka midju? …
+syllable coda: slakyrebla?
+rhoticity. {ry. zei sance}
+        too bad that  letteral can be lujvoized
+
+tone: {tonga}, {togmo'a}
+extra-lowtone: {galtu traji tonga}
+hightone: {galtu tonga}
+    ※ has {morna} to be kept?
+    ※ Ilmen: {togmo'a} is used for patterns of changes in tones; I think that for lujvo you can drop the -mo'a.
+    ※ i'e
+midtone: {milxe tonga}
+lowtone: {dizlo tonga}
+extra-lowtone: {dizlo traji tonga}
+falling tone: jdika tonga
+        {farlu} is more metaphoric u'i
+raising tone: zenba tonga
+dipping tone: (?) jdika zenba tonga
+loudness: {cladu klani}
+rythme: {rilti}
+upstep. {galtu stapa}
+downstep. {dizlo stapa}
+
+
+Open  glottis, unvoiced, voiceless. {kalri jbini cinje}, {voksa claxu},  {cinje voksa to'e janbe}, {cinje bo voksa janbe claxu}, {cinje bo voksa  smaji}
+breathy voice, murmured. {}
+slack voice. {mapra}, {ranti}, {xutla}
+        even {panje}, to be coherent with {banfi}
+Sweet spot, modal voice. {}
+stiff voice. {tinsa}, {jdari}, {trati}
+creaky voice. {banfi voksa}
+Closed glottis, voiced, glottal closure. {ganlo jbini cinje}, {cinje voksa janbe}
+
+
+
+Most of concepts represented by various diacritics ⦅see < https://en.wikipedia.org/wiki/International_Phonetic_Alphabet >⦆, can be made using preiviously defined words, an adding {cenba}
+
+
+#me zo to
+##
+        ⁕ why {traji} between {dizlo} and {tonga}?
+        it's not the tone which is extreme
+          ※ In Lujvo and Tanru, modifiers like mutce/traji/zenba etc are put   before the property they modify, e.g. {bratce} = mutce loka barda;   {braze'a} = zenba loka barda... When in the lujvo/tanru expansion one  of  the elements goes in an abstraction that is given as an argument to  the  other lujvo/tanru element, that second element is considered the  main  one (the lujvo/tanru head), and therefore comes last, because  tanru and  lujvo are head-final (modifiers comes after modified  elements). In  {sutra zebna}, "zenba" is the head/modifier, and sutra is  the modified  element.
+        aren't tanru left-associative?
+        if yes, {mutce loka barda} will be (((mutce) loka) barda)
+        and that's work
+          ※ xaskoiklabrebi'ozu'e → [([(xamsi korbi) klama] bredi) binxo] zukte;   tanru elements are grouped from the left. But the main element, which   gives it's argument structure to the whole bridi, is the last one  (here,  zukte), in the case of tanru at least.
+          The orders of tanru and lujvo is unlike that of the other parts of   Lojban, which is mostly head-initial, with the outstanding exception of   lujvo and tanru. (In French, the equivalents of tanru are head  initial,  for example "papillon de nuit" vs {nicte toldi} in Lojban).
+        
+        but how {zukte} can be the syntactically-modified, if it's the semantic modifier?
+        By appending other stuff on its right. bre-bi'o-zu'e-snada, "succeeds in doing becoming ready"
+        and if no other stuffs?
+        "volitional action related to becoming ready" is less instinctive than 'volitional becoming ready" to me
+        anyway, it's a lojban trick ⦅or a la melop's trick⦆
+##
+
