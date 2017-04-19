@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style media="screen">
+  #arena {
+    margin: auto;
+    display: block;
+  }
+</style>
+<svg id="arena" width="1000" height="500"></svg>
+<script src="d3.v4.min.js"></script>
+<script>
+
+var n = 150; // number of nodes
+var cukydilcytauhu = 20;
+var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+var datni_tcana = d3.range(n).map(function(i) {
+  return {
+    id: i, group: Math.floor(Math.random() * 10)
+  };
+});
+
+var datni_pluta = [];
+
+for (var ibu = 0; ibu < Math.random()*(n/2)+(n/2); ibu++) {
+  datni_pluta.push({source: ibu, target: Math.floor(Math.random()*n), value: Math.floor(Math.random()*n)});
+}
+
+/*
+function likley(l,n){
+  for (var abu = 0; abu < l; ++abu) {
+    datni_pluta.push({source: ibu, target: Math.floor(Math.random() * n), value: Math.floor(Math.random() * 10)});
+  }
+}
+for (var ibu = 0; ibu < n; ibu++) {
+  var j = n%ibu;
+  if (j==0) {
+    likley(Math.random()*(Math.pow(ibu,1/5)),n);
+  } else {
+    likley(Math.random()*(Math.pow(ibu,1/10)),n);
+  }
+}
+// */
+var grafetu = {"nodes":datni_tcana,"links":datni_pluta};
+
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+// CUSTOM
+var simulation = d3.forceSimulation()
+    //.velocityDecay(0) // default: 0.4 // try with +1 or -1 // -0.008 is good to have elasticity
+    //.nodes(nodes_data)
+    .force("link", d3.forceLink(/*links_data*/)
+        .id(function(d) { return d.id; })
+        .distance(10) // default: 30
+        //.strength(0.3)
+        //.iterations(3)
+      )
+    .force("charge", d3.forceManyBody()
+        .strength(-2) /* positive = attractive . negative = repulsive*/
+        //.distanceMax(Infinity) // default: Infinity
+        .theta(0.9) // default: 0.9
+        //.distanceMin(-Infinity)) // default: 1
+      )
+    .force("center",d3.forceCenter(width / 2, height / 2)
+      )
+    // funny with encaged
+    /*
+    .force("x",d3.forceX()
+      .strength(0.2)
+      .x(0.1)
+    )
+    .force("y",d3.forceY()
+      .strength(0.8)
+      .y(0.2)
+      )
+    // */
+    .force("collide", d3.forceCollide()
+        .radius(cukydilcytauhu+10)
+        //.radius(function(d) { return d.r + radius; })
+        .strength(2)
+        //.strength(20) // for maxipushup
+        //.iterations(2)
+      )
+      ;
+
+// BASIC
+/*
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function(d) { return d.id; }))
+    .force("charge", d3.forceManyBody())
+    .force("center", d3.forceCenter(width / 2, height / 2));
+
+// */
+bajra(0,grafetu);
+
+function bajra(error, graph) {
+  if (error) throw error;
+
+  var link = svg.append("g")
+      //.attr("class", "links") // add the class "links"
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+      .attr("stroke-width", function(d) { return Math.pow(d.value,1/4); })
+      .attr("stroke","#fffff") // '.attr("stroke","#ffffff")' to see no links'
+      .attr("stroke-opacity","1");
+
+  var node = svg.append("g")
+      //.attr("class", "nodes")
+    .selectAll("circle")
+    .data(graph.nodes)
+    .enter().append("circle")
+      //.attr("r", function(d) { return Math.tan(d.group*Math.random()+1)*20; })
+      //.attr("r",cukydilcytauhu)
+      .attr("r", function(d) { return Math.abs(Math.sin(d.group*Math.random()+1)*cukydilcytauhu); })
+      //.attr("fill", function(d) { return color(d.group); })
+      .attr("fill", function(d) { return color(d.group*Math.random()); })
+      .attr("stroke","#fff")
+      .attr("stroke-width","1.5px")
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+
+  node.append("title")
+      .text(function(d) { return d.id; });
+
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
+
+  simulation.force("link")
+      .links(graph.links);
+
+  function ticked() {
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node
+        .attr("cx", function(d) { return d.x = Math.max(cukydilcytauhu, Math.min(width - cukydilcytauhu, d.x)); })
+        .attr("cy", function(d) { return d.y = Math.max(cukydilcytauhu, Math.min(height - cukydilcytauhu, d.y)); });
+        //.attr("cx", function(d) { return d.x; })
+        //.attr("cy", function(d) { return d.y; });
+  }
+}
+
+function dragstarted(d) {
+  if (!d3.event.active)
+    simulation
+      .alphaTarget(0.9)
+      .alphaDecay(0.4) // set to 1.5 and be lucky
+      .restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.9);
+  d.fx = null;
+  d.fy = null;
+}
+// GOOD VALUE FOR ALPHATARGET STARTED AND ENDED
+/*
+(3,2)
+*/
+</script>

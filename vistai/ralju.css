@@ -1,0 +1,108 @@
+body,html {
+  margin:0px auto; padding:0; height:110%; width:900px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+.bangu {
+  position: relative;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+  overflow: auto;
+}
+
+@font-face {
+    font-family: 'rajre';
+    src: url('Quicksand-Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'rajli';
+    src: url('Quicksand-LightItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'fct';
+    src: url('fancy_card_text.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'syncopate';
+  src: url('syncopate-regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.letxin {
+  float: left;
+  font-family: fct;
+  font-size: 300%;
+  line-height: 30px;
+  padding-top: 16px;
+  padding-right: 35px;
+  padding-left: 4px;
+}
+
+h2 {
+  font-family: rajli;
+  font-size: 140%;
+  font-style: italic;
+
+}
+
+h3 {
+  font-family: syncopate;
+  font-size: 90%;
+  font-style: italic;
+}
+
+p  {
+  font-family: rajre;
+  font-size: 100%;
+}
+
+ul {
+  list-style: none outside;
+}
+
+li.xadni {
+  font-family: rajre;
+  font-size: 100%;
+}
+
+h3:first-letter {
+ font-size : 200%;
+ font-weight : bold;
+ font-family: fct;
+ font-variant: small-caps;
+ width : 1em;
+ color : #c00;
+ }
+
+a:link {
+   color: #FFFFFF;
+}
+
+a:visited {
+   color: #F0FF0F;
+}
+
+a:hover {
+   color: #FF00FF;
+}
+
+a:active {
+   color: #0F0F0F;
+} 
+
+a {
+  text-decoration: none;
+}
