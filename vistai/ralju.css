@@ -6,6 +6,8 @@ body,html {
 }
 
 .bangu {
+  padding-top: 5%;
+  padding-bottom: 5%;
   position: relative;
     top: 40%;
     left: 50%;
@@ -37,6 +39,13 @@ body,html {
 @font-face {
   font-family: 'syncopate';
   src: url('syncopate-regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'sriler';
+  src: url('srilermorna.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -92,11 +101,11 @@ a:link {
 }
 
 a:visited {
-   color: #F0FF0F;
+   color: #AD5AD2;
 }
 
 a:hover {
-   color: #FF00FF;
+   color: #DC2CF0;
 }
 
 a:active {
@@ -105,4 +114,19 @@ a:active {
 
 a {
   text-decoration: none;
+}
+
+.sriler {
+  font-family: sriler;
+  font-size: 8pt;
+}
+
+.toi {
+  font-family: rajli;
+  font-size: 10pt;
+  color: rgba(128, 128, 128, 0.8);
+}
+
+code {
+  font-size: 11pt;
 }
