@@ -1,0 +1,524 @@
+# FORCE/TRANSFORMATION
+
+<# R1
+cfari: x1 [state/event/process] commences/initiates/starts/begins to occur; (intransitive verb)
+bikla: x1 whips/lashes/snaps [a sudden violent motion]
+
+
+<# R2
+bapli: x1 [force] (ka) forces/compels event x2 to occur; x1 determines property x2 to manifest
+danre: x1 (force) puts pressure on/presses/applies force to x2
+ranji: x1 (event/state) continues/persists over interval x2; x1 (property - ka) is continuous over x2
+rapli: x1 [action] repeats/is repeated for a total of x2 (quantity) occurrences
+kuspe: x1 ranges/extends/spans/persists/reaches across/over interval/gap/area/scope/extent/range x2
+krefu: x1 (event) is the x3'rd recurrence/repetition of x2 (abstract); x2 happens again in [form] x1
+
+
+⁓⁓⁓ sb . to .
+spoja: x1 bursts/explodes/violently breaks up/decomposes/combusts into pieces/energy/fragments x2
+
+⁓⁓⁓ tosb . fromsb .
+torni: x1 twists under load/force/torsion x2
+
+⁓⁓⁓ content . sb .
+lanxe: x1 is in balance/equilibrium under forces x2 (mass)
+
+⁓⁓⁓ sb . to .
+porpi: x1 breaks/fractures/shatters/[splits/splinters/cracks] into pieces x2
+
+⁓⁓⁓ sb . content .
+jicla: x1 (object, or event: force) stirs/mixes/[roils/agitates] fluid (gas/liquid) x2
+
+⁓⁓⁓ fromsb . tosb .
+jenca: x1 (event) shocks/stuns x2
+
+⁓⁓⁓ sb . locus .
+janli: x1 collides with/crashes/bumps/runs into x2
+
+
+<# R3
+dirce: x1 radiates/emits x2 under conditions x3
+kakne: x1 is able to do/be/capable of doing/being x2 (event/state) under conditions x3 (event/state)
+jorne: x1 is joined to/connects to/is united with x2 at common locus x3; x1 and x2 are a union
+carna: x1 turns/rotates/revolves around axis x2 in direction x3
+banro: x1 grows/expands [an increasing development] to size/into form x2 from x3
+basna: x1 emphasizes/accentuates/gives emphasis/stress/accent to x2 by (action) x3
+binxo: x1 becomes/changes/converts/transforms into x2 under conditions x3
+carvi: x1 rains/showers/[precipitates] to x2 from x3; x1 is precipitation [not limited to 'rain']
+cecla: x1 launches/fires/shoots projectile/missile x2, propelled by x3 [propellant/propulsion]
+canci: x1 vanishes/disappears from location x2; x1 ceases to be observed at x2 using senses/sensor x3
+cikre: x1 repairs/mends/fixes x2 for use x3
+cirko: x1 loses person/thing x2 at/near x3; x1 loses property/feature x2 in conditions/situation x3
+
+⁓⁓⁓ sb . content . ka .
+sakci: x1 sucks/is suction/vacuum/relative low pressure of fluid/gas x2 relative to high pressure x3
+
+⁓⁓⁓ fromsb . tosb . ka .
+&sruri: x1 encircles / encloses / is surrounding x2 in direction(s) / dimension(s) / plane x3. 
+
+⁓⁓⁓ sb . locus . via .
+stapa: x1 steps/treads on/in surface x2 using limbs x3
+
+⁓⁓⁓ sb . locus . via .
+slilu: x1 oscillates at rate/frequency x2 through set/sequence-of-states x3 (complete specification)
+
+⁓⁓⁓ sb . locus . .
+runme: x1 melts [becomes liquid from solid state] at temperature x2 and pressure x3
+
+⁓⁓⁓ sb . content . locus .
+rinka: x1 (event/state) effects/physically causes effect x2 (event/state) under conditions x3
+
+⁓⁓⁓ sb . content . to .
+renro: x1 throws/launches/casts/hurls x2 to/at/in direction x3 (propulsion derives internally to x1)
+
+⁓⁓⁓ sb . content . via .
+sepli: x1 is apart/separate from x2, separated by partition/wall/gap/interval/separating medium x3
+
+⁓⁓⁓ content . sb . .
+rinju: x1 is restrained/held [back]/constrained/kept by restraint x2 against x3 (event)
+
+⁓⁓⁓ sb . content . to .
+marxa: x1 [force] mashes/crushes/squashes/smashes x2 into pulp/mash/crumbs/deformed mass x3
+
+⁓⁓⁓ sb . to . from .
+preja: x1 spreads/expands over/into x2 from initial state x3
+
+⁓⁓⁓ sb . content . locus .
+polje: x1 (force) folds/creases x2 at locus/loci/forming crease(s)/bend(s) x3
+
+⁓⁓⁓ result . locus . .
+mosra: x1 is friction [force opposing motion] due to contact/rubbing between x2 and x3; (fe) x2 rubs x1
+
+⁓⁓⁓ sb . fromsb . tosb .
+katna: x1 (tool/blade/force) cuts [through]/splits/divides x2 (object) into pieces x3 ⟦in force and not in tool because no 'material' ⟦focused in the action and not the object⟧⟧
+
+⁓⁓⁓ sb . content . from .
+guska: x1 blade/scraper/erosive scrapes/erodes/abrades x2 from x3
+
+⁓⁓⁓ sb . locus . .
+gunro: x1 rolls/trundles on/against surface x2 rotating on axis/axle x3; x1 is a roller
+
+⁓⁓⁓⁓ fromsb . content . tosb .
+sabji: x1 [source] provides/supplies/furnishes x2 [supply/commodity] to x3 [recipient]
+
+
+<# R4
+binra: x1 insures/indemnifies x2 (person) against peril x3 (event) providing benefit(s) x4 (event)
+cenba: x1 varies/changes in property/quantity x2 (ka/ni) in amount/degree x3 under conditions x4
+cradi: x1 broadcasts/transmits [using radio waves] x2 via station/frequency x3 to [radio] receiver x4
+canja: x1 exchanges/trades/barters commodity x2 for x3 with x4; x1, x4 is a trader/merchant/businessman
+
+⁓⁓⁓ sb . to . ka . from .
+tcena: x1 stretches/extends to range x2 [interval/extent] in dimension x3 from relaxed range x4
+
+⁓⁓⁓ sb . locus . to . ka .
+runta: x1 dissolves in solvent x2 forming solution/[suspension] x3 under conditions x4
+
+⁓⁓⁓ sb . content . sb . via .
+sarji: x1 supports/holds up/is underpinning of/[helps] x2 against force/opposition x3 with/by means x4
+
+⁓⁓⁓ sb . to . from . via .
+farvi: x1 develops/evolves towards/into x2 from x3 through stages x4
+muvdu: x1 (object) moves to destination/receiver x2 [away] from origin x3 over path/route x4
+kanji: x1 calculates/reckons/computes x2 [value (ni)/state] from data x3 by process x4
+
+⁓⁓⁓ fromsb . content . from . reference .
+farlu: x1 falls/drops to x2 from x3 in gravity well/frame of reference x4
+
+⁓⁓⁓ sb . content . locus . .
+lafti: x1 (force) lifts/applies raising/supporting force to x2 at locus x3 in gravity well x4
+
+⁓⁓⁓ sb . result . locus . .
+lunsa: x1 condenses/liquefies on/into x2 at temperature x3, pressure x4; x1 is dew/condensate on x2
+
+
+
+
+
+# AGENT/SUBJECT
+
+<# A?
+
+<# A2
+⁓⁓⁓ sb . locus .
+limna: x1 (agent) swims in fluid x2
+cortu: x1 hurts/feels pain/hurt at locus x2
+catlu: x1 looks at/examines/views/inspects/regards/watches/gazes at x2
+
+⁓⁓⁓ sb . means .
+vofli: x1 flies [in air/atmosphere] using lifting/propulsion means x2
+
+⁓⁓⁓ sb . content .
+casnu: x1(s) (mass normally, but 1 individual/jo'u possible) discuss(es)/talk(s) about topic/subject x2
+bacru: x1 utters verbally/says/phonates/speaks [vocally makes sound] x2
+pulji: x1 is a police officer/[enforcer/vigilante] enforcing law(s)/rule(s)/order x2
+sumne: x1 (experiencer) smells/scents [transitive verb] x2; x2 smells/has odor/scent to observer x1
+gasnu: x1 [person/agent] is an agentive cause of event x2; x1 does/brings about x2
+lifri: x1 [person/passive/state] undergoes/experiences x2 (event/experience); x2 happens to x1
+vamtu: x1 vomits/regurgitates x2; x1 throws x2 up; [violent] digestive expulsion
+zajba: x1 is a gymnast at/performs gymnastics feat x2
+dansu: x1 (individual, mass) dances to accompaniment/music/rhythm x2
+citka: x1 eats/ingests/consumes (transitive verb) x2
+pensi: x1 thinks/considers/cogitates/reasons/is pensive about/reflects upon subject/concept x2
+vasxu: x1 breathes/respires x2 [gas]
+xusra: x1 (agent) asserts/claims/declares x2 (du'u) is true [can be used for epistemology of authority]
+sisti: x1 [agent] ceases/stops/halts activity/process/state x2 [not necessarily completing it] ⟦&fanmo, &krasi, …⟧
+kelci: x1 [agent] plays with plaything/toy x2
+ralte: x1 retains/keeps/holds x2 in its possession
+jersi: x1 chases/pursues/(physically) follows after x2; volition is not implied for x1 or x2
+gletu: x1 copulates/fucks/mates/has coitus/sexual intercourse with x2
+fanta: x1 prevents/keeps/stops/restrains/constrains event x2 from occurring
+siclu: x1 [sound source] whistles/makes whistling sound/note/tone/melody x2
+tadni: x1 studies/is a student of x2; x1 is a scholar; (adjective:) x1 is scholarly
+sonci: x1 is a soldier/warrior/fighter of army x2
+
+⁓⁓⁓ content . fromsb .
+sance: x1 is sound produced/emitted by x2
+
+
+<# A3
+⁓⁓⁓ ? . ? . ? .
+bandu: x1 (event) defends/protects x2 (object/state) from threat/peril/potential x3 (event)
+
+⁓⁓⁓ fromsb . content . ? .
+darlu: x1 argues for stand x2 against stand x3; [an opponent is not necessary]
+
+⁓⁓⁓ fromsb . content . ? .
+dapma: x1 curses/damns/condemns x2 to fate (event) x3
+
+⁓⁓⁓ content . fromsb . motive .
+bilni: x1 is military/regimented/is strongly organized/prepared by system x2 for purpose x3
+
+⁓⁓⁓ sb . motive . ? .
+kamni: x1 (mass) is a committee with task/purpose x2 of body x3
+
+
+⁓⁓⁓ sb . locus . viasb .
+cadzu: x1 walks/strides/paces on surface x2 using limbs x3
+satre: x1 (agent) strokes/rubs/pets x2 with x3 ⟦AND_WHY_NOT_LOCUSX4??????????⟧
+djica: x1 desires/wants/wishes x2 (event/state) for purpose x3
+
+⁓⁓⁓ sb . ka . about .
+cinmo: x1 feels emotion x2 (ka) about x3
+
+⁓⁓⁓ sb . from . via .
+dandu: x1 hangs/dangles/is suspended from x2 by/at/with joint x3
+
+
+
+⁓⁓⁓ fromsb . content . ka .
+dasni: x1 wears/is robed/garbed in x2 as a garment of type x3
+cmoni: x1 utters moan/groan/howl/scream [non-linguistic utterance] x2 expressing x3 (property)
+pacna: x1 hopes/wishes for/desires x2 (event), expected likelihood x3 (0-1); x1 hopes that x2 happens
+
+⁓⁓⁓ fromsb . content . result .
+zalvi: x1 [individual or mass of hard surfaces] grinds/pulverizes/crushes x2 into powder x3
+
+⁓⁓⁓ fromsb . content . via .
+jabre: x1 brakes/causes to slow motion/activity x2 with device/mechanism/principle x3
+cupra: x1 produces x2 [product] by process x3
+rivbi: x1 avoids/evades/shuns/escapes/skirts [fate] x2 (event) through action/state x3 (event)
+lanli: x1 analyzes/examines-in-detail x2 by method/technique/system x3 [process/activity]
+kavbu: x1 captures/catches/apprehends/seizes/nabs x2 with trap/restraint x3
+jukpa: x1 cooks/prepares food-for-eating x2 by recipe/method x3 (process)
+
+⁓⁓⁓ fromsb . content . tosb .
+dunda: x1 [donor] gives/donates gift/present x2 to recipient/beneficiary x3 [without payment/exchange]
+nupre: x1 (agent) promises/commits/assures/threatens x2 (event/state) to x3 [beneficiary/victim]
+stidi: x1 (agent) suggests/proposes idea/action x2 to audience x3; x1 (event) inspires x2 to x3
+sanga: x1 sings/chants x2 [song/hymn/melody/melodic sounds] to audience x3
+jarco: x1 (agent) shows/exhibits/displays/[reveals]/demonstrates x2 (property) to audience x3
+tigni: x1 performs x2 [performance] for/before audience x3
+
+⁓⁓⁓ fromsb . content . locus .
+catke: x1 [agent] shoves/pushes x2 at locus x3
+sombo: x1 sows/plants x2 [crop/plants] at/in x3
+vitke: x1 is a guest/visitor of x2 at place/event x3; x1 visits x2/x3
+lacpu: x1 pulls/tugs/draws/drags x2 by handle/at locus x3
+
+⁓⁓⁓ fromsb . content . about .
+smadi: x1 guesses/conjectures/surmises x2 (du'u) is true about subject x3; [epistemology]
+sruma: x1 assumes/supposes that x2 (du'u) is true about subject x3; [epistemology]
+morji: x1 remembers/recalls/recollects fact(s)/memory x2 (du'u) about subject x3
+krici: x1 believes [without evidence] that belief/creed x2 (du'u) is true/assumed about subject x3
+facki: x1 discovers/finds out x2 (du'u) about subject/object x3; x1 finds (fi) x3 (object)
+jimpe: x1 understands/comprehends fact/truth x2 (du'u) about subject x3; x1 understands (fi) x3
+jijnu: x1 (person) intuits x2 (du'u) about subject x3; [epistemology]
+jdice: x1 (person) decides/makes decision x2 (du'u) about matter x3 (event/state)
+fraxu: x1 forgives x2 for event/state/activity x3
+
+⁓⁓⁓ fromsb . content . from .
+lebna: x1 takes/gets/gains/obtains/seizes/[removes] x2 (object/property) from x3 (possessor)
+kafke: x1 coughs/farts/burps up/out x2 [predominantly gaseous] from orifice x3
+cpacu: x1 gets/procures/acquires/obtains/accepts x2 from source x3 [previous possessor not implied]
+cuxna: x1 chooses/selects x2 [choice] from set/sequence of alternatives x3 (complete set)
+pinxe: x1 (agent) drinks/imbibes beverage/drink/liquid refreshment x2 from/out-of container/source x3
+crepu: x1 (agent) harvests/reaps/gathers crop/product/objects x2 from source/area x3
+tcidu: x1 [agent] reads x2 [text] from surface/document/reading material x3; x1 is a reader
+
+⁓⁓⁓ fromsb . content . reason .
+klaku: x1 weeps/cries tears x2 about/for reason x3 (event/state)
+jerna: x1 (agent/person) earns/[deserves/merits] wages/salary/pay x2 for work/service x3 (activity)
+
+⁓⁓⁓ fromsb . content . condition .
+curmi: x1 (agent) lets/permits/allows x2 (event) under conditions x3; x1 grants privilege x2
+viska: x1 sees/perceives visually x2 under conditions x3
+
+⁓⁓⁓ fromsb . content . motive .
+platu: x1 (agent) plans/designs/plots plan/arrangement/plot/[schematic] x2 for state/process x3
+kalte: x1 hunts/stalks prey/quarry x2 for purpose x3
+gunta: x1 (person/mass) attacks/invades/commits aggression upon victim x2 with goal/objective x3
+gunka: x1 [person] labors/works on/at x2 [activity] with goal/objective x3
+sazri: x1 operates/drives/runs x2 [apparatus/machine] with goal/objective/use/end/function x3
+pilno: x1 uses/employs x2 [tool, apparatus, machine, agent, acting entity, material] for purpose x3
+zukte: x1 is a volitional entity employing means/taking action x2 for purpose/goal x3/to end x3
+lacri: x1 relies/depends/counts on/trusts x2 to bring about/ensure/maintain x3 (event/state)
+
+⁓⁓⁓ fromsb . tosb . via .
+catra: x1 (agent) kills/slaughters/murders x2 by action/method x3
+rinsa: x1 (agent) greets/hails/[welcomes/says hello to]/responds to arrival of x2 in manner x3 (action
+
+⁓⁓⁓ fromsb . tosb . locus .
+cinba: x1 (agent) kisses/busses x2 at locus x3
+
+⁓⁓⁓ fromsb . tosb . for . ⟦(for) to be replaced by (cause/ground)⟧
+ckire: x1 is grateful/thankful to/appreciative of x2 for x3 (event/property)
+
+⁓⁓⁓ fromsb . tosb . locus . ⟦(inte . .) isn't better?⟧
+jamna: x1 (person/mass) wars against x2 over territory/matter x3; x1 is at war with x2
+
+⁓⁓⁓ fromsb . tosb . content .
+pikci: x1 begs/pleads/supplicates/entreats/implores/beseeches/prays [asks with humility] x2 for x3
+kajde: x1 (event/experience) warns/cautions x2 (person) of/about danger x3 (event/state/property)
+gidva: x1 (person/object/event) guides/conducts/pilots/leads x2 (active participants) in/at x3 (event)
+
+⁓⁓⁓ fromsb . tosb . motive .
+damba: x1 fights/combats/struggles with x2 over issue x3 (abstract); x1 is a fighter/combatant
+
+⁓⁓⁓ fromsb . tosb . cause .
+dicra: x1 (event) interrupts/stops/halts/[disrupts] x2 (object/event/process) due to quality x3
+
+⁓⁓⁓ fromsb . tosb . condition .
+randa: x1 yields/gives way/surrenders to x2 (force/agent) under conditions x3
+
+⁓⁓⁓ fromsb . ka . locus .
+sisku: x1 seeks/searches/looks for property x2 among set x3 (complete specification of set)
+vipsi: x1 is a deputy/vice/subordinate in aspect [or organization principle] x2 (ka) to principal x3
+
+⁓⁓⁓ fromsb . to . from .
+sfubu: x1 dives/swoops [manner of controlled falling] to x2 from x3
+
+⁓⁓⁓ fromsb . locus . from .
+jmaji: x1 (mass/jo'u) gathers/collects at location x2 from locations x3 (mass/jo'u)
+
+⁓⁓⁓ fromsb . sb . locus .
+penmi: x1 meets/encounters x2 at/in location x3
+
+⁓⁓⁓ fromsb . via . .
+litru: x1 travels/journeys/goes/moves via route x2 using means/vehicle x3; x1 is a traveller
+
+⁓⁓⁓ fromsb . cause . content .
+spuda: x1 answers/replies to/responds to person/object/event/situation/stimulus x2 with response x3
+
+⁓⁓⁓ fromsb . condition . locus .
+ckeji: x1 feels ashamed/mortified/humiliated under conditions x2 before community/audience x3
+
+⁓⁓⁓ fromsb . to . from .
+snada: x1 [agent] succeeds in/achieves/completes/accomplishes x2 as a result of effort/attempt/try x3
+salci: x1 celebrates/recognizes/honors x2 (event/abstract) with activity/[party] x3
+jivbu: x1 weaves x2 from material/[yarn] x3
+nivji: x1 (agent) knits x2 [cloth/object] from yarn/thread x3
+zbasu: x1 makes/assembles/builds/manufactures/creates x2 out of materials/parts/components x3
+
+⁓⁓⁓ fromsb . from . content .
+sitna: x1 cites/quotes/refers to/makes reference to source x2 for information/statement x3 (du'u)
+
+⁓⁓⁓ fromsb . from . via .
+cliva: x1 leaves/goes away/departs/parts/separates from x2 via route x3
+
+⁓⁓⁓ tosb . fromsb . motive .
+kagni: x1 is a company/corporation/firm/partnership chartered by authority x2 for purpose x3
+
+⁓⁓⁓ tosb . fromsb . via .
+pinfu: x1 is a prisoner/captive of x2, restrained/held/confined by means/force x3
+
+
+
+
+<# A4
+⁓⁓⁓ ? . ? . ? .
+jansu: x1 is a diplomat/consul representing polity x2 in/at negotiation x3 for function/purpose x4
+denpa: x1 awaits/waits/pauses for/until x2 at state x3 before starting/continuing x4 (activity/process
+
+⁓⁓⁓ fromsb . content . tosb . ka .
+dejni: x1 owes x2 in debt/obligation to creditor x3 in return for x4 [service, loan]; x1 is a debtor
+
+⁓⁓⁓ fromsb . tosb . via . locus .
+darxi: x1 hits/strikes/[beats] x2 with instrument [or body-part] x3 at locus x4
+
+⁓⁓⁓ fromsb . content . tosb . via .
+cusku: x1 (agent) expresses/says x2 (sedu'u/text/lu'e concept) for audience x3 via expressive medium x4
+
+⁓⁓⁓ fromsb . content . ka . via .
+spali: x1 (agent) polishes object/surface x2 with polish x3, applied using tool x4
+
+⁓⁓⁓ fromsb . locus . via . tai .
+bajra: x1 runs on surface x2 using limbs x3 with gait x4
+
+⁓⁓⁓ fromsb . locus . to . via .
+cpare: x1 climbs/clambers/creeps/crawls on surface x2 in direction x3 using x4 [limbs/tools]
+
+⁓⁓⁓ fromsb . content . about . via .
+djuno: x1 knows fact(s) x2 (du'u) about subject x3 by epistemology x4
+
+⁓⁓⁓ fromsb . content . about . ? .
+ckasu: x1 ridicules/mocks/scoffs at x2 about x3 (property/event) by doing activity x4 (event)
+
+⁓⁓⁓ fromsb . content . tosb . via .
+ciksi: x1 (person) explains x2 (event/state/property) to x3 with explanation x4 (du'u)
+
+⁓⁓⁓ fromsb . content . locus . via .
+batci: x1 bites/pinches x2 on/at specific locus x3 with x4
+
+⁓⁓⁓ fromsb . content . via . .
+ciska: x1 inscribes/writes x2 on display/storage medium x3 with writing implement x4; x1 is a scribe
+
+⁓⁓⁓ fromsb . content . via . condition .
+zgana: x1 observes/[notices]/watches/beholds x2 using senses/means x3 under conditions x4
+ganse: x1 [observer] senses/detects/notices stimulus property x2 (ka) by means x3 under conditions x4
+
+⁓⁓⁓ fromsb . content . tosb . condition
+friti: x1 offers/proffers x2 [offering] to x3 with conditions x4
+
+⁓⁓⁓ fromsb . content . via . result?via .
+pandi: x1 (agent) punctuates x2 (expression) with symbol/word x3 with syntactic/semantic effect x4
+
+⁓⁓⁓ fromsb . content . result . via
+kancu: x1 (agent) counts the number in set x2 to be x3 [number/count] counting [off] by units x4
+
+⁓⁓⁓ fromsb . content . from . ? .
+jbera: x1 (agent) borrows/temporarily takes/assumes x2 (object) from source x3 for interval x4
+
+⁓⁓⁓ fromsb . content . result . via .
+ganzu: x1 organizes x2 [relative chaos] into x3 [ordered/organized result] by system/principle(s) x4
+
+⁓⁓⁓ fromsb . content . via . tosb .
+tivni: x1 [broadcaster] televises programming x2 via media/channel x3 to television receiver x4
+
+⁓⁓⁓ fromsb . content . condition . standard .
+srera: x1 errs in doing/being/making mistake x2 (event), an error under conditions x3 by standard x4
+
+⁓⁓⁓ fromsb . content . locus . .
+setca: x1 (agent) inserts/interposes/puts/deposits x2 into interior x3/into among/between members of x4
+
+⁓⁓⁓ fromsb . content . via . .
+†plixa: x1 (agent) plows/furrows/tills [cuts into and turns up] x2 with tool x3 propelled by x4
+troci: x1 tries/attempts/makes an effort to do/attain x2 (event/state/property) by actions/method x3
+
+⁓⁓⁓ fromsb . content . tosb . reason .
+pleji: x1 pays/compensates/remunerates/[rewards] payment x2 to recipient/payee x3 for goods/services x4
+
+⁓⁓⁓ fromsb . content . tosb . via .
+mipri: x1 keeps x2 secret/hidden from x3 by method x4; x2 is a secret; x1 hides/conceals x2
+lumci: x1 (agent) washes/cleanses x2 of soil/contaminant x3 in/with cleaning material(s) x4
+skicu: x1 tells about/describes x2 (object/event/state) to audience x3 with description x4 (property)
+fendi: x1 (agent) divides/partitions/separates x2 into sections/parts/ind. x3 by method/partition x4
+
+⁓⁓⁓ fromsb . content . tosb . for .
+vecnu: x1 [seller] sells/vends x2 [goods/service/commodity] to buyer x3 for amount/cost/expense x4
+
+⁓⁓⁓ fromsb . content . from . via .
+vikmi: x1 [body] excretes waste x2 from source x3 via means/route x4
+kakpa: x1 (agent) digs x2 [material] up/out of x3 [source/hole] with limbs/tool(s) x4
+sputu: x1 spits/expectorates x2 [predominantly liquid] from x3 to/onto x4
+cpedu: x1 requests/asks/petitions/solicits for x2 of/from x3 in manner/form x4
+
+⁓⁓⁓ fromsb . content . . via .
+lasna: x1 (agent) fastens/connects/attaches x2 to x3 with fastener x4
+
+⁓⁓⁓ fromsb . content . about . reason .
+jinvi: x1 thinks/opines x2 [opinion] (du'u) is true about subject/issue x3 on grounds x4
+†finti: x1 invents/creates/composes/authors x2 for function/purpose x3 from existing elements/ideas x4
+
+⁓⁓⁓ fromsb . content . to . from .
+xruti: x1 (agent) returns x2 to origin/earlier state x3 from x4; x1 moves/gives x2 back to x3 from x4
+
+⁓⁓⁓ fromsb . content . inte . via .
+fenso: x1 sews/stitches/sutures materials x2 (ind./set) together with tool(s) x3, using filament x4
+
+⁓⁓⁓ fromsb . content . inte . result .
+jmina: x1 adds/combines x2 to/with x3, with result x4; x1 augments x2 by amount x3
+
+⁓⁓⁓ fromsb . content . to . result .
+zivle: x1 (agent) invests resources x2 in investment x3 expecting return/profit x4 (object(s)/event)
+minra: x1 reflects/mirrors/echoes x2 [object/radiation] to observer/point x3 as x4; x2 bounces on x1
+
+⁓⁓⁓ fromsb . content . from . locus
+jinga: x1 (person/team) wins/gains prize x2 from/over x3 [competitors/losers] in competition x4
+
+⁓⁓⁓ fromsb . content . means . locus .
+tikpa: x1 kicks [hits with x1's foot/feet x4] x2 in/at locus x3, using x1's foot/feet x4
+
+⁓⁓⁓ fromsb . content . locus . means .
+punji: x1 (agent) puts/places/sets x2 on/at surface/locus x3
+pencu: x1 (agent) touches x2 with x3 [a locus on x1 or an instrument] at x4 [a locus on x2]
+jgari: x1 grasps/holds/clutches/seizes/grips/[hugs] x2 with x3 (part of x1) at locus x4 (part of x2)
+
+⁓⁓⁓ fromsb . tosb . about . language .
+tavla: x1 talks/speaks to x2 about subject x3 in language x4
+
+⁓⁓⁓ fromsb . tosb . for . via .
+venfu: x1 takes revenge on/retaliates against x2 (person) for wrong x3 (nu) with vengeance x4 (nu)
+sfasa: x1 (agent) punishes x2 for infraction x3 (event/state/action) with punishment x4 (event/state)
+
+⁓⁓⁓ fromsb . tosb . content . about .
+tugni: x1 [person] agrees with person(s)/position/side x2 that x3 (du'u) is true about matter x4
+
+⁓⁓⁓ fromsb . tosb . content . via .
+mikce: x1 doctors/treats/nurses/[cures]/is physician/midwife to x2 for ailment x3 by treatment/cure x4
+
+⁓⁓⁓ fromsb . tosb . ⟦vague⟧ . via .
+xlura: x1 (agent) influences/lures/tempts x2 into action/state x3 by influence/threat/lure x4
+
+⁓⁓⁓ fromsb . tosb . ka . result .
+xrani: x1 (event) injures/harms/damages victim x2 in property x3 (ka) resulting in injury x4 (state)
+
+⁓⁓⁓ fromsb . tosb . motive . via .
+cnemu: x1 (agent) rewards x2 [recipient] for atypical x3 (event/property) with reward/desserts x4
+
+⁓⁓⁓ fromsb . cause . tosb . via .
+pante: x1 protests/objects to/complains about x2 (event/state) to audience x3 with action x4
+
+⁓⁓⁓ fromsb . inte . about . motive .
+jivna: x1 competes/vies with opponent x2 in contest/competition x3 (event) for gain x4; x1 rivals x2
+
+⁓⁓⁓ fromsb . via . to . from .
+pagre: x1 passes through/penetrates barrier/medium/portal x2 to destination side x3 from origin side x4
+
+
+<# A5
+⁓⁓⁓ fromsb . tosb . content . about . via .
+ctuca: x1 teaches audience x2 ideas/methods/lore x3 (du'u) about subject(s) x4 by method x5 (event)
+
+⁓⁓⁓ fromsb . content . ka . . .
+merli: x1 (agent) measures/evaluates x2 [quantity] as x3 units on scale x4 (si'o), with accuracy x5
+
+⁓⁓⁓ fromsb . to . from . ka . via .
+plipe: x1 (agent/object) leaps/jumps/springs/bounds to x2 from x3 reaching height x4 propelled by x5
+
+⁓⁓⁓ fromsb . content . to . from . result .
+fanva: x1 translates text/utterance x2 to language x3 from language x4 with translation result x5
+
+⁓⁓⁓ fromsb . content . inte . ka . result .
+karbi: x1 [observer] compares x2 with x3 in property x4 (ka), determining comparison x5 (state)
+
+⁓⁓⁓ fromsb . content . tosb . from . via .
+mrilu: x1 mails/posts [transfer via intermediary service] x2 to x3 from x4 by carrier/network/system x5
+bevri: x1 carries/hauls/bears/transports cargo x2 to x3 from x4 over path x5; x1 is a carrier/[porter]
+benji: x1 transfers/sends/transmits x2 to receiver x3 from transmitter/origin x4 via means/medium x5
+
+⁓⁓⁓ fromsb . content . to . from . via .
+pambe: x1 is a pump/injector [tool/apparatus] pumping/inserting fluid x2 to x3 from x4 by means x5
+
+⁓⁓⁓ fromsb . content . about . from . via .
+cilre: x1 learns x2 (du'u) about subject x3 from source x4 (obj./event) by method x5 (event/process)

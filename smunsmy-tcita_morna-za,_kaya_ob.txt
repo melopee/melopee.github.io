@@ -1,0 +1,451 @@
+## operators
+kanxe: x1 is a conjunction, stating that x2 (du'u) and x3 (du'u) are both true
+vlina: x1 is a logical alternation/disjunction, stating that x2 (du'u) and/or x3 (du'u) is/are true
+sumji: x1 is a mathematical sum/result/total of x2 plus/increased by x3
+pilji: x1 is the product/total/result of factors/multiplicands (x2 and x3) x2 multiplied by x3
+frinu: x1 is a fraction, with numerator x2, denominator x3 (x2/x3)
+dilcu: x1 is a quotient of 'x2/x3' [dividend x2 divided by divisor x3], leaving remainder x4
+tenfa: x1 is the exponential result of base x2 to power/exponent x3
+dugri: x1 is the logarithm of x2 with base x3
+sinso: x1 is the trigonometric sine of angle x2
+tanjo: x1 is the trigonometric tangent of angle x2
+parbi: x1 (me'o, fraction) is a ratio/rate of x2 (quantity) with respect to x3 (quantity), [x2:x3]
+mintu: x1 is the same/identical thing as x2 by standard x3; (x1 and x2 interchangeable)
+dunli: x1 is equal/congruent to/as much as x2 in property/dimension/quantity x3
+du: x1, x2, x3, x4, x5, …, are equal
+saclu: x1 (me'o) is the [decimal/binary] equivalent of fractional x2 (me'o) in base x3 (quantity)
+
+
+<# B1
+namcu: x1 (li) is a number/quantifier/digit/value/figure [noun]; refers to the value and not the symbol
+sfofa: x1 is a sofa/couch [noun]
+stizu: x1 is a chair/stool/seat/bench, a piece or portion of a piece of furniture intended for sitting
+
+
+<# B2
+## content . use .
+dinju: x1 is a building/edifice for purpose x2
+ckilu: x1 (si'o) is a scale of units for measuring/observing/determining x2 (state)
+canpa: x1 is a shovel/spade [bladed digging implement] for digging x2
+danti: x1 is a ballistic projectile [e.g. bullet/missile] for firing by [gun/propelling launcher] x2
+
+## content . sb .
+mekso: x1 [quantifier/expression] is a mathematical expression interpreted under rules/convention x2
+cuntu: x1 is an affair/organized activity involving person(s) x2 (ind./mass); x1 is x2's business
+daski: x1 is a pocket/pouch of/in garment/item x2
+selci: x1 is a cell/atom/unit/molecule of x2; x1 is an indivisible, most basic subunit of x2
+cmima: x1 is a member/element of set x2; x1 belongs to group x2; x1 is amid/among/amongst group x2
+canko: x1 is a window/portal/opening [portal] in wall/building/structure x2
+tcima: x1 is weather at place/region x2; (adjective:) x1 is meteorological
+cmana: x1 is a mountain/hill/mound/[rise]/[peak]/[summit]/[highlands] projecting from land/mass x2
+zbani: x1 is a bay in/of coast/shoreline x2
+loldi: x1 is a floor/bottom/ground of x2
+cedra: x1 is an era/epoch/age characterized by x2 (event/property/interval/idea)
+vanbi: x1 (ind./mass) is part of an environment/surroundings/context/ambience of x2
+tcini: x1 [state/property] is a situation/condition/state/position/are conditions/circumstances of x2
+tarmi: x1 [ideal] is the conceptual shape/form of object/abstraction/manifestation x2 (object/abstract
+stura: x1 is a structure/arrangement/organization of x2 [set/system/complexity]
+greku: x1 is a frame/structure/skeleton/outline supporting/load-bearing/determining the form of x2
+krasi: x1 (site/event) is a source/start/beginning/origin of x2 (object/event/process)
+fanmo: x1 is an end/finish/termination of thing/process x2; [not necessarily implying completeness]
+jalge: x1 (action/event/state) is a result/outcome/conclusion of antecedent x2 (event/state/process)
+jdini: x1 is money/currency issued by x2; (adjective:) x1 is financial/monetary/pecuniary/fiscal
+papri: x1 is a [physical] page/leaf of book/document/bound mass of pages x2
+pagbu: x1 is a part/component/piece/portion/segment of x2 [where x2 is a whole/mass]; x2 is partly x1
+jibri: x1 is a job/occupation/employment/vocation (a type of work regularly done for pay) of person x2
+zdani: x1 is a nest/house/lair/den/[home] of/for x2
+danfu: x1 is the answer/response/solution/[reply] to question/problem x2
+festi: x1(s) is/are waste product(s) [left to waste] by x2 (event/activity)
+sabnu: x1 is a cabin of vehicle x2
+voksa: x1 is a voice/speech sound of individual x2
+matra: x1 is a motor/engine, driving/propelling/providing power to x2
+rilti: x1 (sequence/non-text quote) is a rhythm/beat of music/expressive form x2
+
+### sb . about .
+logji: x1 [rules/methods] is a logic for deducing/concluding/inferring/reasoning to/about x2 (du'u)
+
+### sb . locus .
+jecta: x1 is a polity/state governing territory/domain x2; [government/territory relationship]
+jatna: x1 is captain/commander/leader/in-charge of vehicle/domain x2
+lalxu: x1 is a lake/lagoon/pool at site/within land mass x2
+jarbu: x1 is a suburban area of city/metropolis x2
+tsani: x1 is an expanse of sky/the heavens at place x2; [celestial] ⟦are you feeling that 'body' ≈ 'place' is a mainstream metaphor?⟧
+tumla: x1 is a parcel/expanse of land at location x2; x1 is terrain
+
+### tosb . fromsb .
+tutra: x1 is territory/domain/space of/belonging to/controlled by x2
+
+### fromsb . tosb .
+turni: x1 governs/rules/is ruler/governor/sovereign/reigns over people/territory/domain/subjects x2
+
+### sb . ka .
+terdi: x1 is the Earth/the home planet of race x2; (adjective:) x1 is terrestrial/earthbound
+lunra: x1 is Earth's moon [default]; x1 is a major natural satellite/moon of planet x2
+damri: x1 is a drum/cymbal/gong [percussion musical instrument] with beater/actuator x2
+cmaci: x1 is a mathematics of type/describing x2
+janbe: e
+kensa: x1 is outer space near/associated with celestial body/region x2
+tarci: x1 is a star/sun with stellar properties x2
+
+### sb . content .
+vasru: x1 contains/holds/encloses/includes contents x2 within; x1 is a vessel containing x2
+xabju: x1 dwells/lives/resides/abides at/inhabits/is a resident of location/habitat/nest/home/abode x2
+xaksu: x1 (event) uses up/depletes/consumes/[wastes] x2 [resource]
+
+### content . from .
+pelji: x1 is paper from source x2
+grasu: x1 is a quantity of/is made of/contains grease/fat/oil from source x2
+
+### content . use .
+tutci: x1 is a tool/utensil/resource/instrument/implement used for doing x2;
+toknu: x1 is an oven [enclosure that heats its contents] for baking/heating/drying x2
+vidni: x1 is a video monitor/CRT/screen [machine] serving function x2
+skami: x1 is a computer for purpose x2
+jinci: x1 is a pair of shears/scissors for cutting x2
+molki: x1 is a mill/foundry/industrial plant/[assembly line] performing process x2
+minji: x1 is a machine for use/function x2; [automated apparatus, without direct function control]
+tcana: x1 is a station/node of/in/on transport/communication/distribution system/network x2
+gacri: x1 is a cover/[lid/top] for covering/concealing/sheltering x2
+
+<# B3
+### content . use . composition .
+smuci: x1 is a spoon/scoop (tool) for use x2, made of material x3
+palne: x1 is a tray/platter/flat container [pan/sheet/griddle] of contents x2, and made of material x3 ⟦to lo me zo vo'e cu cizratoi⟧
+kicne: x1 cushions x2 with material x3; x1 is a cushion/pillow/pad [for x2] of padding material x3
+karli: x1 is a collar/ring/belt/band around/surrounding x2 made of material x3
+pijne: x1 is a pin/peg (needle-shaped tool) for fastening to/piercing x2, of material/properties x3
+murta: x1 is a curtain/blinds/drapes for covering/obscuring aperture x2, and made of material x3
+zbepi: x1 is a pedestal/base/stand/pallet supporting x2 (object/event), of materials/properties x3
+
+### content . to . from .
+xarci: x1 is a weapon/arms for use against x2 by x3
+fanri: x1 is a factory/foundry/industrial plant/mill producing x2 from materials x3
+
+### content . use . via .
+vinji: x1 is an airplane/aircraft [flying vehicle] for carrying passengers/cargo x2, propelled by x3
+stela: x1 is a lock/seal of/on/for sealing x2 with/by locking mechanism x3
+karce: x1 is a car/automobile/truck/van [a wheeled motor vehicle] for carrying x2, propelled by x3
+kacma: x1 is a camera/photographic equipment recording illumination type x2 images to media x3
+
+### content . sb . use .
+taxfu: x1 is dress/a garment/clothing for wearing by x2 (gender/species/body part) serving purpose x3
+kajna: x1 is a shelf/counter/bar in/on/attached to supporting object x2, for purpose x3
+kalri: x1 (portal/passage/entranceway) is open/ajar/not shut permitting passage/access to x2 by x3
+ganlo: x1 (portal/passage/entrance-way) is closed/shut/not open, preventing passage/access to x2 by x3
+
+### content . locus . use .
+nilce: x1 [furniture items] furnishes x2 [location] serving purpose/function x3
+
+### content . composition . locus .
+jmifa: x1 is a shoal [shallow hazard]/reef of material x2 in body of water x3
+
+### content . composition . conditions .
+?pulce: x1 is dust/precipitate [suspensible solid] from x2 in medium/on surface x3
+?litki: x1 is liquid/fluid, of composition/material including x2, under conditions x3
+?gapci: x1 is gaseous/fumes/a gas/vapor of material/composition including x2, under conditions x3
+
+### content . fromsb . locus .
+nabmi: x1 (event/state) is a problem to/encountered by x2 in situation/task/inquiry x3
+
+### content . composition . ka .
+komcu: x1 is a comb [many-needled shape] of material x2 with tines/needles x3
+
+### content . fromsb . composition .
+jendu: x1 is an axle/spindle [tool] on which x2 rotates, of material/properties x3
+
+### content . via . sb .
+jakne: x1 is a rocket [vehicle] propelled by jet expelling x2 carrying payload x3
+
+### content . to . via .
+gundi: x1 is industry/industrial/systematic manufacturing activity producing x2 by process/means x3
+
+### content . fromsb . via .
+falnu: x1 is a sail for gathering propelling material x2 on vehicle/motor x3
+
+### content . sb . ka .
+xislu: x1 is a wheel [tool] of device/vehicle x2, made of materials/having properties x3
+
+### content . composition . via .
+jubme: x1 is a table/flat solid upper surface of material x2, supported by legs/base/pedestal x3
+
+### content . . locus .
+pinsi: x1 is a pencil/crayon/stylus applying lead/marking material x2, frame/support [of material] x3
+
+### content . . via .
+penbi: x1 is a pen using ink x2 applied by process x3
+
+### content . . composition .
+lanka: x1 is a basket with contents x2, woven from material x3
+
+### content . . from .
+tonga: x1 is a tone/note of frequency/pitch x2 from source x3
+
+### CLASSIFYING
+serti: x1 are stairs/stairway/steps for climbing structure x2 with steps x3
+pulni: x1 is a pulley [tool] for performing action/function x2 rotating on axle x3
+linsi: x1 is a length of chain/links of material x2 with link properties x3
+manri: x1 is a frame of reference/standard for observing/measuring/determining x2, with/by rules x3
+tadji: x1 [process] is a method/technique/approach/means for doing x2 (event) under conditions x3
+senta: x1 is a layer/stratum [shape/form] of x2 [material] within structure/continuum/composite x3
+klani: x1 is a quantity quantified/measured/enumerated by x2 (quantifier) on scale x3 (si'o)
+morna: x1 is/reflects/represents a pattern of forms/events x2 arranged according to structure x3
+klesi: x1 (mass/si'o) is a class/category/subgroup/subset within x2 with defining property x3 (ka)
+porsi: x1 [ordered set] is sequenced/ordered/listed by comparison/rules x2 on unordered set x3
+lidne: x1 precedes/leads x2 in sequence x3; x1 is former/preceding/previous; x2 is latter/following
+fatne: x1 [sequence] is in reverse order from x2 [sequence]; x1 (object) is inverted from x2 (object)
+panci: x1 is an odor/fragrance/scent/smell emitted by x2 and detected by observer/sensor x3
+banxa: x1 is a bank owned by/in banking system x2 for banking function(s) x3 (event)
+bangu: x1 is a/the language/dialect used by x2 to express/communicate x3 (si'o/du'u, not quote)
+baktu: x1 is a bucket/pail/can/deep, solid, wide-topped container of contents x2, made of material x3
+bakfu: x1 is a bundle/package/cluster/clump/pack [shape/form] containing x2, held together by x3
+bloti: x1 is a boat/ship/vessel [vehicle] for carrying x2, propelled by x3
+burcu: x1 is a brush for purpose x2 (event) with bristles x3
+cabra: x1 is apparatus/mechanism/device/equipment for function x2 controlled/[triggered] by x3 (agent)
+carce: x1 is a cart/carriage/wagon [wheeled vehicle] for carrying x2, propelled by x3
+cartu: x1 is a chart/diagram/map of/about x2 showing formation/data-points x3
+cfika: x1 is a work of fiction about plot/theme/subject x2/under convention x2 by author x3
+cinta: x1 [material] is a paint of pigment/active substance x2, in a base of x3
+ckana: x1 is a bed/pallet of material x2 for holding/supporting x3 (person/object/event)
+ckiku: x1 is a key fitting/releasing/opening/unlocking lock x2, and having relevant properties x3
+dacru: x1 is a drawer/file in structure x2, a [sliding compartment] container for contents x3
+dakfu: x1 is a knife (tool) for cutting x2, with blade of material x3
+dakli: x1 is a sack/bag with contents x2, and of material x3
+dinko: x1 is a nail/tack [pointed driven/frictional fastener] of type/size x2 (ka), made of material x3
+skiji: x1 is a ski/skid/skate/runner for surface (of material) x2 supporting skier/skater/sled/cargo x3
+xukmi: x1 is an instance of substance/chemical/drug x2 (individual or mass) with purity x3
+tcita: x1 is a label/tag of x2 showing information x3
+sigja: x1 is a cigar/cigarette/cigarillo made from tobacco/smokable substance x2 by x3
+ratni: x1 is an atom of element/atomic number x2 of isotope number/atomic weight x3
+gugde: x1 is the country of peoples x2 with land/territory x3; (people/territory relationship)
+marji: x1 is material/stuff/matter of type/composition including x2 in shape/form x3
+marde: x1 are the ethics/morals/moral standards/ethical standards of x2 (ind./mass) about situation x3
+lijda: x1 is a religion of believers including x2 sharing common beliefs/practices/tenets including x3
+larcu: x1 (process) is an art [creative application] of craft/skill x2 (idea/activity)
+judri: x1 is an address of/are coordinates of x2 in system x3
+jenmi: x1 (mass) is an army serving group/community x2 (mass) in function x3 (activity)
+dikca: x1 is electricity [electric charge or current] in/on x2 of polarity/quantity x3 (def. negative)
+nejni: x1 is energy of type x2 in form x3
+ctaru: x1 is a tide [cyclical/periodical expansion] in x2 caused by x3
+dirgo: x1 is a drop [small, cohesive shape] of material [liquid/vapor] x2 in surrounding material x3
+brife: x1 is a breeze/wind/gale from direction x2 with speed x3; x1 blows from x2
+datni: x1 (du'u) [fact/measurement] is data/information/statistic(s) about x2 gathered by method x3
+ckini: x1 is related to/associated with/akin to x2 by relationship x3
+cipra: x1 (process/event) is a test for/proof of property/state x2 in subject x3 (individ./set/mass)
+calku: x1 is a shell/husk [hard, protective covering] around x2 composed of x3
+&xamsi: x1 is a sea / ocean / gulf / [atmosphere] of planet x2, of fluid x3; (adjective:) x1 is marine.
+derxi: x1 is a heap/pile/stack/mound/hill of materials x2 at location x3
+daplu: x1 is an island/atoll/key of [material/properties] x2 in surroundings/body x3; x1 is insular
+kumfa: x1 is a room of/in structure x2 surrounded by partitions/walls/ceiling/floor x3 (mass/jo'u)
+sidbo: x1 (idea abstract) is an idea/concept/thought about x2 (object/abstract) by thinker x3
+temci: x1 is the time-duration/interval/period/[elapsed time] from time/event x2 to time/event x3
+mifra: x1 is encoded/cipher text of plain-text x2 by code/coding system x3; x1 is in code; x3 is a cod
+krinu: x1 (event/state) is a reason/justification/explanation for/causing/permitting x2 (event/state)
+javni: x1 is a rule prescribing/mandating/requiring x2 (event/state) within system/community x3
+karda: x1 is a card [small nearly-2-dimensional shape/form] of material x2, shape x3
+lindi: x1 is lightning/electrical arc/thunderbolt striking at/extending to x2 from x3
+jetce: x1 is a jet [expelled stream] of material x2 expelled from x3
+garna: x1 is a rail/railing/bar [tool] supporting/restraining x2, of material x3
+gusta: x1 is a restaurant/cafe/diner serving type-of-food x2 to audience x3
+
+### content . to . from .
+gusni: x1 [energy] is light/illumination illuminating x2 from light source x3
+
+### content . to . via .
+savru: x1 is a noise/din/clamor [sensory input without useful information] to x2 via sensory channel x3
+
+### content . use . ka .
+spita: x1 is a hospital treating patient(s) x2 for condition/injuries/disease/illness x3
+marbi: x1 is a shelter/haven/refuge/retreat/harbor for/protecting x2 from danger/threat x3
+
+### sb . locus . from .
+munje: x1 is a universe/cosmos [complete and ordered entirety] of domain/sphere x2 defined by rules x3
+
+### sb . locus . composition .
+xamsi: x1 is a sea/ocean/gulf/[atmosphere] of planet x2, of fluid x3; (adjective:) x1 is marine
+vacri: x1 is a quantity of air/normally-gaseous atmosphere of planet x2, of composition including x3
+
+### sb . about . from .
+saske: x1 (mass of facts) is science of/about subject matter x2 based on methodology x3
+
+### tosb . content . fromsb .
+tinbe: x1 obeys/follows the command/rule x2 made by x3; (adjective:) x1 is obedient
+
+### fromsb . tosb . result .
+minde: x1 issues commands/orders to x2 for result x3 (event/state) to happen; x3 is commanded to occur
+
+### fromsb . tosb . locus .
+jitro: x1 has control over/harnesses/manages/directs/conducts x2 in x3 (activity/event/performance)
+
+### sb . fromsb . result .
+purdi: x1 is a garden/tended/cultivated field of family/community/farmer x2 growing plants/crop x3
+
+### fromsb . tosb . condition .
+ponse: x1 possesses/owns/has x2 under law/custom x3; x1 is owner/proprietor of x2 under x3
+
+### sb . motive . fromsb .
+zarci: x1 is a market/store/exchange/shop(s) selling/trading (for) x2, operated by/with participants x3
+
+### sb . content . via .
+sorcu: x1 is a store/deposit/supply/reserve of materials/energy x2 in containment x3
+
+### sb . locus . fromsb .
+xotli: x1 is a hotel/inn/hostel at location x2 operated by x3
+
+### sb . content . composition .
+patxu: x1 is a pot/kettle/urn/tub/sink, a deep container for contents x2, of material/properties x3
+kabri: x1 is a cup/glass/tumbler/mug/vessel/[bowl] containing contents x2, and of material x3
+
+### sb . fromsb . motive .
+panka: x1 is a park/land reserve managed by community/polity/company x2 for purpose x3
+
+### sb . motive . locus .
+muzga: x1 is a museum for preserving [and possibly exhibiting] x2 at location x3
+
+### sb . from . locus .
+malsi: x1 is a temple/church/sanctuary/synagogue/shrine of religion x2 at location/serving area x3
+
+### sb . sb . composition .
+lante: x1 is a can/tightly sealed/pre-sealed container for perishable contents x2, made of x3
+
+### content . sb . locus .
+ginka: x1 is a camp/encampment/temporary residence of x2 at location x3
+
+### content . locus . .
+klaji: x1 is a street/avenue/lane/drive/cul-de-sac/way/alley/[road] at x2 accessing x3
+
+### fromsb . tosb . ka .
+stika: x1 (event) adjusts/regulates/changes x2 (ka/ni) in amount/degree x3
+
+### fromsb . tosb result .
+galfi: x1 (event) modifies/alters/changes/transforms/converts x2 into x3
+
+### sb . ka . .
+jdika: x1 (experiencer) decreases/contracts/is reduced/diminished in property/quantity x2 by amount x3
+zenba: x1 (experiencer) increases/is incremented/augmented in property/quantity x2 by amount x3
+
+
+<# B4
+girzu: x1 is group/cluster/team showing common property (ka) x2 due to set x3 linked by relations x4
+pruce: x1 is a process with inputs x2, outputs/results x3, passing through steps/stages x4
+cripu: x1 is a bridge/span over/across x2 between x3 and x4 [unordered, typically destination first]
+cange: x1 is a farm/ranch at x2, farmed by x3, raising/producing x4; (adjective:) x1 is agrarian
+liste: x1 (physical object) is a list/catalog/register of sequence/set x2 in order x3 in medium x4
+lamji: x1 is adjacent/beside/next to/in contact with x2 in property/sequence x3 in direction x4
+rinci: x1 liquid/fluid drains/strains/flushes from source x2 through drain/strainer x3 by force x4
+bende: x1 is a crew/team/gang/squad/band of persons x2 directed/led by x3 organized for purpose x4
+botpi: x1 is a bottle/jar/urn/flask/closable container for x2, made of material x3 with lid x4
+cteki: x1 is a tax/levy/duty on goods/services/event x2 levied against x3 by authority/collector x4
+fukpi: x1 is a copy/replica/duplicate/clone of x2 in form/media x3 made by method x4 (event)
+ritli: x1 is a rite/ceremony/ritual for purpose/goal x2, by custom/in community x3, with form/rules x4
+ranmi: x1 is a myth/legend, a culturally significant story about x2 in mythos x3 of culture x4
+fancu: x1 is a function/single-valued mapping from domain x2 to range x3 defined by expression/rule x4
+tsina: x1 is a stage/platform/dais/[scaffold] at/in x2 supporting x3, made of material x4
+bitmu: x1 is a wall/fence separating x2 and x3 (unordered) of/in structure x4
+ciste: x1 (mass) system interrelated by structure x2 among components x3 (set) displaying x4 (ka)
+dilnu: x1 is a cloud of material x2 in air mass x3 at floor/base elevation x4
+dargu: x1 is a road/highway to x2 from x3 with route x4 (x2/x3 may be unordered)
+
+### content . about . fromsb . tosb .
+lisri: x1 is a story/tale/yarn/narrative about plot/subject/moral x2 by storyteller x3 to audience x4
+prosa: x1 is prose about plot/theme/subject x2 by author x3 for intended audience x4
+pinka: x1 (text) is a comment/remark/observation about subject x2 expressed by x3 to audience x4
+pemci: x1 is a poem/verse about plot/theme/subject/pattern x2 by author x3 for intended audience x4
+preti: x1 (quoted text) is a question/query about subject x2 by questioner x3 to audience x4
+notci: x1 is a message/notice/memorandum about subject x2 from author x3 to intended audience x4
+karni: x1 is a journal/periodical/magazine/[newspaper] with content x2 published by x3 for audience x4
+skina: x1 is a cinema/movie/film about x2 [plot/theme/subject/activity], filmmaker x3, for audience x4
+
+### content . tosb . fromsb . about .
+xatra: x1 is a letter/missive/[note] to intended audience x2 from author/originator x3 with content x4
+
+### content . about . fromsb . via .
+pixra: x1 is a picture/illustration representing/showing x2, made by artist x3 in media x4
+
+### content . about . . ka .
+julne: x1 is a net/filter allowing passage of x2, prohibiting passage of x3, netting properties x4
+vorme: x1 is a doorway/gateway/access way between x2 and x3 of structure x4
+
+### content . locus . via .
+prina: x1 is a print/impression/image on/in surface x2 of/made by/using tool/press/implement/object x3
+
+### content . to . from . via
+naxle: x1 is a canal/channel to x2 from x3 with route x4
+
+### content . about . from . observer .
+nuzba: x1 (du'u) is news/tidings/new information about subject x2 from source x3, to observer x4
+
+### content . fromsb . mod . condition .
+pikta: x1 is a ticket entitling x2 to entitlement/privilege x3 (event/state) under conditions x4
+
+### content . to . from . via .
+pluta: x1 is a route/path/way/course/track to x2 from x3 via/defined by points including x4 (set)
+
+### content .  tosb . fromsb . mod .
+jaspu: x1 is a passport issued to x2 (person) by authority x3 allowing x4 (activity)
+
+### content . . tosb . fromsb .
+jdima: x1 [amount] is the price of x2 to purchaser/consumer x3 set by vendor x4
+
+### fromsb . tosb . fromsb . via .
+jinku: x1 is a vaccine/immune-system stimulant protecting x2 against disease x3 introduced by method x4
+
+### content . mod . tosb . fromsb .
+janta: x1 is an account/bill/invoice for goods/services x2, billed to x3 by x4
+
+### content . locus . tosb . fromsb
+flecu: x1 is a current/flow/river of/in x2 flowing in direction to/toward x3 from direction/source x4
+
+### content . . locus . ka .
+rimni: x1 rhymes/alliterates with x2 in language/phonetics x3, matching sound correspondence x4 (ka)
+
+### content . sb . ka . standard .
+melbi: x1 is beautiful/pleasant to x2 in aspect x3 (ka) by aesthetic standard x4
+
+### tosb . from . via . fromsb .
+rinci: x1 liquid/fluid drains/strains/flushes from source x2 through drain/strainer x3 by force x4
+
+### sb . locus . ka . .
+plini: x1 is a planet revolving around x2 with planetary characteristics x3, orbital parameters x4
+mluni: x1 is a satellite/moon orbiting x2 with characteristics x3, orbital parameters x4
+
+### fromsb . locus . tosb . to .
+rirxe: x1 is a river of landmass x2, draining watershed x3 into x4/terminating at x4
+
+### content . locus . ka . ? .
+tcadu: x1 is a town/city of metropolitan area x2, in political unit x3, serving hinterland/region x4
+
+### content . sb . about . via .
+vreji: x1 is a record of x2 (data/facts/du'u) about x3 (object/event) preserved in medium x4
+
+### content . use . ka . .
+vraga: x1 is a lever [tool] [of apparatus] for doing x2 [function/action], with fulcrum x3 and arm x4
+
+mruli: x1 [tool] is a hammer for/hammers x2 [target] consisting of weight/head x3 propelled by x4
+forca: x1 is a fork/fork-type tool/utensil for purpose x2 with tines/prongs x3 on base/support x4
+sicni: x1 is a coin/token/is specie issued by x2 having value x3 of composition including x4 ⟦can be 'tool' also⟧
+junla: x1 is clock/watch/timer measuring time units x2 to precision x3 with timing mechanism/method x4
+klupe: x1 is a screw [fastener] for purpose x2, threads [pitch, material] x3, frame [size, material] x4
+
+### content . composition . use . via .
+trene: x1 is a train [vehicle] of cars/units x2 (mass) for rails/system/railroad x3, propelled by x4
+
+### content . sb . via . via .
+marce: x1 is a vehicle/mode of transport carrying x2 in/on surface/medium x3, propelled by x4
+
+### content . from . to . via .
+lenjo: x1 is a lens/glass [focussing shape/form] focussing x2 to focus/foci x3 by means/material x4
+
+### content . ka . . composition .
+lanci: x1 is a flag/banner/standard of/symbolizing x2 with pattern(s) x3 on material x4
+
+<# B5
+flalu: x1 is a law specifying x2 (state/event) for community x3 under conditions x4 by lawgiver(s) x5
+cukta: x1 is a book about subject/theme/story x2 by author x3 for audience x4 preserved in medium x5
+draci: x1 is a drama/play about x2 [plot/theme/subject] by dramatist x3 for audience x4 with actors x5
+ckule: x1 is school/institute/academy at x2 teaching subject(s) x3 to audien./commun. x4 operated by x5
+boxna: x1 is a wave [periodic pattern] in medium x2, wave-form x3, wave-length x4, frequency x5
+klama: x1 comes/goes to destination x2 from origin x3 via route x4 using means/vehicle x5
+
+### content . to . from . composition . .
+santa: x1 is an umbrella/parasol shielding x2 from x3, made of material x4, supported by x5
+<# B5
