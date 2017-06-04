@@ -1,0 +1,39 @@
+## Limit of the current situation and expansion
+'warning' ⦅ADM⦆, 'hypothetical wishing' ⦅HOR⦆, 'question' ⦅IRG⦆, 'call to action' ⦅DIR⦆, 'assertion' ⦅ASR⦆, announce ⦅DEC⦆,, are not the only acts that can be said as Illocution, e.g. acquit, decree, condemn, degrade, command, pardon, promise, make the wish of, garant, bet, swear, bequeath, apologize, thank, criticize, claim, negate, postulate, define ⦅as for SSD1 of -p-P1S1⦆…
+
+With the will to not make dummy lists which will be anyway incomplete, let's try to use roots to influence the meaning of an Illocution.
+And so, instead of having a special slot for Illocution, it will be a root incorporated for Illocution ⦅see the end of this text to see the classification of Illocution, or "Speech act", that I propose to use⦆.
+
+Incorporation of a root, the role of this root precised by another value? That's sounds indeed like Format.
+In an other hand, let's think about Format. I propose that Format can be globalised by Case. Current Format's Values are just broader Cases, and, as Format Expansion Suffixe does, can be expanded to all other-than-Comparative Cases.
+
+SCHematic: FuNCtive
+InStRumentative: INS
+OBJective: ABS
+AuTHoritative: primary root is ENABLER
+PRecurrenT: PreCursiVe
+ReSuLtative: result
+SuBseQuent: cause
+ConCoMmitant: SiMuLtative
+AFfInitive: CoNductiVe, InterDePendent, CORrelative
+[Similarities between Case and Format. If some Formats are missing as Cases, let just add them as Case]
+
+So, in one side, Format can be though as Case.
+On the other side, my new Illocution acts as a Format.
+Then why not, if Format and Case are merged, merge also Illocution ⦅more precisely, Illocutionary ≈operators≈⦆ to Case?
+If a formative can borrow more than one incorporated root, then I don't see any problem.
+An hypothetical example: let's incorporate the root -by- 'dog' ⦅among other meanings⦆ with -nd- 'question' ⦅among other meanings⦆. -by- will have a case, and -nd- an Illocution. Because they will be part of the same formative, it will work as the ithkuil 2011 illocution.
+Yes, as we had stated, it will be probably morpho-phonologically longer, but that brings more modularity by allowing any roots, and fill the discrepancy between roots and Values. More, Illocution can be, in this system, borrowed as an alone word in the sentence. Because, as a formative can has one Case, a formative can has only an Illocution. And so, state a generic illocution about the whole sentence.
+
+## Speech acts
+Speech acts is a linguistic point of view developped by Austin, which roughly says that some utterances are used differently from simply borrowing informations and truth-value about an external reality. They are directly “compelling” reality to be as they express, whereas general statements, ”assertions”, are more describing realities, i.e. what is true and what is false. For example, a difference can be found between:
+“I now solemnly declare you husband and wife.” vs “Since 1200AM, it is true that you are spouse and wife.”
+“Bring me a cup of coffee!” vs “A cup of coffee brought my you will appear here in 5 minutes.”
+
+Another man called Searle continued the work of Austin, and tried to classify speech acts. Among the variety of parameter that he had found ⦅I've found a miscellany list here https://fr.wikipedia.org/wiki/Acte_de_langage⦆. An interesting thing is the "adjusting direction".
+Previously, performative acts were described as if words were mapping worlds, opposed to assertive, where words where just describing worlds.
+But these directions can be expanded, having all directions:
+words　—›　worlds　e.g. order, hint
+worlds　—›　words　e.g. assertion, affirmation
+words　‹—›　worlds　both directions, e.g. "formal" announcements, "hereby" declarations ⦅as ithkuil's DIRective⦆
+words　—　worlds　no directiions, e.g.　congratulation, greeting
